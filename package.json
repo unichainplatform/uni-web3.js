@@ -1,0 +1,26 @@
+{
+  "name": "unichain-web3",
+  "version": "1.0.0",
+  "description": "UniChain Web3 JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unichainplatform/uni-web3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unichainplatform/uni-web3.js/issues"
+  },
+  "homepage": "https://github.com/unichainplatform/uni-web3.js#readme",
+  "dependencies": {
+    "eth-crypto": "^1.3.3",
+    "ethereumjs-abi": "^0.6.7",
+    "ethereumjs-util": "^6.1.0",
+    "rlp": "^2.2.3"
+  }
+}
