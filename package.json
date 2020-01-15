@@ -1,6 +1,6 @@
 {
   "name": "unichain-web3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UniChain Web3 JS API",
   "main": "index.js",
   "scripts": {
